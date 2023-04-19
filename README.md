@@ -2,7 +2,7 @@
 FCFS,SJF,ROUND ROBIN,PRIORITY SHEDULING ALGORITHMS 
 
 
-1) FCFS CPU SCHEDULLING-FIRST COME FIRST SERVE SCHEDULING ALGORITHMS CPU SCHEDULLING :-
+1)FCFS CPU SCHEDULLING-FIRST COME FIRST SERVE SCHEDULING ALGORITHMS CPU SCHEDULLING :-
   FCFS (First-Come, First-Served) is a simple CPU scheduling algorithm that executes processes in the order they arrive. 
   The first process that arrives gets the CPU first and runs until it finishes or gets blocked by I/O.
   Other processes have to wait in a queue until the CPU is available. FCFS is easy to understand and implement but can lead to long waiting times and is not
